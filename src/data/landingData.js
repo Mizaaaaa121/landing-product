@@ -6,10 +6,10 @@ export const landingData = {
     primaryCta: "Get the Website Kit",
     secondaryCta: "Live Demo",
     screenshots: {
-      desktop: "/screenshots/hero-desktop.png",
-      mobile: "/screenshots/hero-mobile.png",
-      menuPreview: "/screenshots/preview-products.png",
-      galleryPreview: "/screenshots/preview-gallery.png"
+      desktop: "./screenshots/hero-desktop.png",
+      mobile: "./screenshots/hero-mobile.png",
+      menuPreview: "./screenshots/preview-products.png",
+      galleryPreview: "./screenshots/preview-gallery.png"
     }
   },
 
@@ -69,7 +69,7 @@ export const landingData = {
       title: "Hero Section",
       subtitle: "First Impression Menawan",
       description: "Menampilkan headline bisnis yang jelas, tombol pesan langsung ke WhatsApp, dan foto utama suasana toko dengan kartu jam operasional interaktif.",
-      image: "/screenshots/hero-desktop.png",
+      image: "./screenshots/hero-desktop.png",
       tag: "Halaman Utama"
     },
     {
@@ -77,7 +77,7 @@ export const landingData = {
       title: "Products / Menu",
       subtitle: "Katalog Menu & Produk",
       description: "Kartu produk bersih dengan foto asli, deskripsi rasa, label kategori, harga yang jelas, serta tombol pesan WhatsApp otomatis yang langsung menyertakan nama produk.",
-      image: "/screenshots/preview-products.png",
+      image: "./screenshots/preview-products.png",
       tag: "Katalog Menu"
     },
     {
@@ -85,7 +85,7 @@ export const landingData = {
       title: "Gallery + Lightbox",
       subtitle: "Dokumentasi Suasana & Tempat",
       description: "Grid galeri foto responsif yang dilengkapi lightbox modal ramah aksesibilitas untuk melihat foto tempat dan proses penyajian dalam ukuran penuh.",
-      image: "/screenshots/preview-gallery.png",
+      image: "./screenshots/preview-gallery.png",
       tag: "Galeri Foto"
     },
     {
@@ -93,7 +93,7 @@ export const landingData = {
       title: "Location & Hours",
       subtitle: "Informasi Lokasi & Kontak",
       description: "Informasi alamat lengkap, jam operasional mingguan, kontak telepon, dan tombol navigasi langsung ke Google Maps agar pelanggan mudah berkunjung.",
-      image: "/screenshots/preview-location.png",
+      image: "./screenshots/preview-location.png",
       tag: "Peta & Jam Buka"
     }
   ],
