@@ -1,4 +1,6 @@
 export const landingData = {
+  checkoutUrl: "https://mizaawebdev.myr.id/catalog/local-business-website-kit-v100-template-website-umkm/",
+
   hero: {
     badge: "V1.0.0",
     title: "Local Business Website Kit",

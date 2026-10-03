@@ -19,7 +19,7 @@ export default function App() {
   const [demoModalOpen, setDemoModalOpen] = useState(false);
 
   const handleGetKit = () => {
-    setPurchaseModalOpen(true);
+    window.open(landingData.checkoutUrl, '_blank', 'noopener,noreferrer');
   };
 
   const handleLiveDemo = () => {

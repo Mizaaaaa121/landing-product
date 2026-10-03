@@ -66,13 +66,13 @@ export default function PurchaseModal({ isOpen, onClose }) {
 
         <div className="modal-actions">
           <a
-            href="https://wa.me/6281390791341?text=Halo%20Admin,%20saya%20ingin%20membeli%20Local%20Business%20Website%20Kit%20V1.0.0%20(Launch%20Price%20Rp79.000)"
+            href="https://mizaawebdev.myr.id/catalog/local-business-website-kit-v100-template-website-umkm/"
             target="_blank"
             rel="noopener noreferrer"
             className="landing-btn-primary landing-btn-block landing-btn-lg"
           >
             <Download size={18} />
-            <span>Beli Sekarang via WhatsApp</span>
+            <span>Beli Sekarang di Mayar</span>
             <ArrowRight size={16} />
           </a>
           <p className="modal-guarantee">
